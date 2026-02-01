@@ -247,13 +247,21 @@ export default function ChapterFourPage() {
           exit={{ opacity: 0 }}
         >
           <motion.div
-            className="relative mx-6 max-w-lg rounded-3xl bg-white/95 px-8 py-6 text-center shadow-glow"
+            className="relative w-[90vw] max-w-4xl rounded-3xl bg-white/95 px-10 py-10 text-center shadow-glow"
             initial={{ scale: 0.9, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
             transition={{ duration: 0.4 }}
           >
+            <button
+              type="button"
+              onClick={() => setWinToast(false)}
+              className="absolute right-3 top-3 rounded-full border border-ink/10 bg-white/80 px-3 py-1 text-xs uppercase tracking-[0.2em] text-ink/70 shadow-soft transition hover:text-ink"
+              aria-label="Close celebration"
+            >
+              Close
+            </button>
             <div className="absolute inset-0 pointer-events-none">
-              {Array.from({ length: 14 }).map((_, idx) => {
+              {Array.from({ length: 20 }).map((_, idx) => {
                 const icons = ["🎉", "✨", "💖", "🎈", "💫", "🎊", "💗", "🌟"];
                 const icon = icons[idx % icons.length];
                 const left = 5 + (idx * 7) % 90;
@@ -271,14 +279,14 @@ export default function ChapterFourPage() {
                 );
               })}
             </div>
-            <div className="mx-auto mb-3 h-120 w-120 rounded-2xl bg-white/70 shadow-soft">
+            <div className="mx-auto mb-5 h-56 w-56 rounded-3xl bg-white/70 shadow-soft sm:h-72 sm:w-72">
               <Image
                 src="/S1.jpeg"
                 alt=""
                 aria-hidden="true"
-                width={256}
-                height={256}
-                className="h-full w-full rounded-2xl object-contain"
+                width={512}
+                height={512}
+                className="h-full w-full rounded-3xl object-contain"
               />
             </div>
             <h3 className="font-display text-2xl text-ink">
