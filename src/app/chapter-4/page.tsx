@@ -54,7 +54,6 @@ export default function ChapterFourPage() {
       if (next.size === totalVideos) {
         setWinToast(true);
         showToast("Very Well done my Love!!!!, You're the best. You Won a surprise Gift", 5200);
-        window.setTimeout(() => setWinToast(false), 5200);
         setAllowNext(true);
       }
       return next;
