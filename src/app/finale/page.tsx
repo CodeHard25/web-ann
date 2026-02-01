@@ -8,6 +8,7 @@ import { Button } from "@/components/ui/button";
 import { Modal } from "@/components/ui/modal";
 import { JumpToBottom } from "@/components/ui/jump-to-bottom";
 import { glowPulse, stampPop, transitions } from "@/lib/motion";
+import { withBasePath } from "@/lib/asset";
 import { Heart } from "lucide-react";
 import { useRouter } from "next/navigation";
 
@@ -23,7 +24,7 @@ export default function FinalePage() {
   const [burst, setBurst] = useState(false);
   const [showModal, setShowModal] = useState(false);
   const [copied, setCopied] = useState(false);
-  const heroVideoSrc = useMemo(() => "/Mp4.mp4", []);
+  const heroVideoSrc = useMemo(() => withBasePath("/Mp4.mp4"), []);
 
   const burstPieces = useMemo(
     () => [

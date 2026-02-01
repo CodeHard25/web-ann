@@ -9,6 +9,7 @@ import { Button } from "@/components/ui/button";
 import { JumpToBottom } from "@/components/ui/jump-to-bottom";
 import { fadeIn } from "@/lib/motion";
 import { cn } from "@/lib/utils";
+import { withBasePath } from "@/lib/asset";
 import cardsData from "@/content/chapter4.json";
 import { useRouter } from "next/navigation";
 
@@ -165,7 +166,7 @@ export default function ChapterFourPage() {
                             <div className="pointer-events-none absolute left-5 top-2 h-3 w-14 -rotate-6 rounded-sm bg-white/80 shadow-soft" />
                             <div className="pointer-events-none absolute right-5 top-2 h-3 w-14 rotate-6 rounded-sm bg-white/80 shadow-soft" />
                             <video
-                              src={item.src}
+                              src={withBasePath(item.src)}
                               muted
                               playsInline
                               preload="metadata"
@@ -199,7 +200,7 @@ export default function ChapterFourPage() {
                           <div className="absolute left-5 top-2 h-3 w-14 -rotate-6 rounded-sm bg-white/80 shadow-soft" />
                           <div className="absolute right-5 top-2 h-3 w-14 rotate-6 rounded-sm bg-white/80 shadow-soft" />
                           <Image
-                            src={item.src}
+                            src={withBasePath(item.src)}
                             alt=""
                             aria-hidden="true"
                             width={1400}
@@ -281,7 +282,7 @@ export default function ChapterFourPage() {
             </div>
             <div className="mx-auto mb-5 h-56 w-56 rounded-3xl bg-white/70 shadow-soft sm:h-72 sm:w-72">
               <Image
-                src="/S1.jpeg"
+                src={withBasePath("/S0.jpeg")}
                 alt=""
                 aria-hidden="true"
                 width={512}

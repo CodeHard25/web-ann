@@ -13,6 +13,7 @@ import { HUDChip } from "@/components/ui/hud-chip";
 import { JumpToBottom } from "@/components/ui/jump-to-bottom";
 import { glowPulse, pageEnter, pageExit, transitions } from "@/lib/motion";
 import { useRouter } from "next/navigation";
+import { withBasePath } from "@/lib/asset";
 
 export default function ChapterTwoPage() {
   const prefersReducedMotion = useReducedMotion();
@@ -406,10 +407,10 @@ export default function ChapterTwoPage() {
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
               >
-                <Image
-                  src="/P1.png"
-                  alt=""
-                  aria-hidden="true"
+              <Image
+                src={withBasePath("/P1.png")}
+                alt=""
+                aria-hidden="true"
                   width={408}
                   height={612}
                   className="w-[240px] select-none md:w-[300px]"

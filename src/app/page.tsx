@@ -9,6 +9,7 @@ import { FilmGrainOverlay } from "@/components/effects/film-grain-overlay";
 import { VignetteOverlay } from "@/components/effects/vignette-overlay";
 import { Button } from "@/components/ui/button";
 import { useSound } from "@/components/effects/sound-provider";
+import { withBasePath } from "@/lib/asset";
 
 export default function HomePage() {
   const prefersReducedMotion = useReducedMotion();
@@ -82,7 +83,11 @@ export default function HomePage() {
     <div className="relative min-h-screen overflow-hidden text-ink">
       <div
         className="pointer-events-none absolute inset-0 opacity-75"
-        style={{ backgroundImage: "url(/J1.png)", backgroundSize: "cover", backgroundPosition: "center" }}
+        style={{
+          backgroundImage: `url(${withBasePath("/J1.png")})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}
       />
       <motion.div
         className="pointer-events-none absolute inset-0"
@@ -183,7 +188,7 @@ export default function HomePage() {
           <div className="absolute inset-0 rounded-full border border-white/50 bg-white/10 shadow-soft backdrop-blur-md" />
           <div className="absolute inset-2 rounded-full border border-white/30 bg-white/5" />
           <Image
-            src="/K1.png"
+            src={withBasePath("/K1.png")}
             alt=""
             aria-hidden="true"
             width={600}
@@ -221,7 +226,7 @@ export default function HomePage() {
                 transition={{ duration: 0.3 }}
               >
                 <Image
-                  src="/M.png"
+                  src={withBasePath("/M.png")}
                   alt=""
                   aria-hidden="true"
                   width={408}

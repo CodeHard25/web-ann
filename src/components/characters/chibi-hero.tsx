@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { withBasePath } from "@/lib/asset";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 
@@ -43,7 +44,7 @@ export function ChibiHero({ state = "idle", size = 190, className }: ChibiHeroPr
         }
       >
         <Image
-          src="/boy.png"
+          src={withBasePath("/boy.png")}
           alt=""
           aria-hidden="true"
           width={301}

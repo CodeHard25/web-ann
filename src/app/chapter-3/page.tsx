@@ -13,6 +13,7 @@ import scenes from "@/content/scenes.json";
 import { CupSoda, Heart, Motorbike, Star } from "lucide-react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
+import { withBasePath } from "@/lib/asset";
 
 type SceneItem = {
   id: string;
@@ -288,10 +289,10 @@ export default function ChapterThreePage() {
                         className="group relative h-48 w-full overflow-hidden rounded-card shadow-soft"
                         aria-label="Tap to unlock memory"
                       >
-                        <Image
-                          src="/M1.png"
-                          alt=""
-                          aria-hidden="true"
+                          <Image
+                            src={withBasePath("/M1.png")}
+                            alt=""
+                            aria-hidden="true"
                           width={1536}
                           height={1024}
                           className={cn(
@@ -301,10 +302,10 @@ export default function ChapterThreePage() {
                           draggable={false}
                           priority
                         />
-                        <Image
-                          src="/M2.png"
-                          alt=""
-                          aria-hidden="true"
+                          <Image
+                            src={withBasePath("/M2.png")}
+                            alt=""
+                            aria-hidden="true"
                           width={1536}
                           height={1024}
                           className={cn(
@@ -313,10 +314,10 @@ export default function ChapterThreePage() {
                           )}
                           draggable={false}
                         />
-                        <Image
-                          src="/M7.png"
-                          alt=""
-                          aria-hidden="true"
+                          <Image
+                            src={withBasePath("/M7.png")}
+                            alt=""
+                            aria-hidden="true"
                           width={1536}
                           height={1024}
                           className={cn(
@@ -392,7 +393,7 @@ export default function ChapterThreePage() {
                           transition={{ duration: 0.6 }}
                         >
                           <Image
-                            src="/M6.png"
+                            src={withBasePath("/M6.png")}
                             alt=""
                             aria-hidden="true"
                             width={1536}
@@ -414,7 +415,7 @@ export default function ChapterThreePage() {
                         <div className="absolute left-0 right-0 top-1/2 h-[2px] -translate-y-1/2 rounded-full bg-ink/20" />
                         <div className="group absolute left-0 top-1/2 flex h-25 w-25 -translate-y-1/2 items-center justify-center">
                           <Image
-                            src="/M3.png"
+                            src={withBasePath("/M3.png")}
                             alt=""
                             aria-hidden="true"
                             width={408}
@@ -428,7 +429,7 @@ export default function ChapterThreePage() {
                         </div>
                         <div className="group absolute right-0 top-1/2 flex h-25 w-25 -translate-y-1/2 items-center justify-center overflow-hidden">
                           <Image
-                            src="/M4.png"
+                            src={withBasePath("/M4.png")}
                             alt=""
                             aria-hidden="true"
                             width={408}
@@ -452,7 +453,7 @@ export default function ChapterThreePage() {
                           title="Drag along the path"
                         >
                           <Image
-                            src="/M.png"
+                            src={withBasePath("/M.png")}
                             alt=""
                             aria-hidden="true"
                             width={408}
@@ -507,10 +508,10 @@ export default function ChapterThreePage() {
                             animate={{ opacity: 1 }}
                             transition={{ duration: 0.5 }}
                           >
-                            <Image
-                              src="/M5.png"
-                              alt=""
-                              aria-hidden="true"
+                          <Image
+                            src={withBasePath("/M5.png")}
+                            alt=""
+                            aria-hidden="true"
                               width={1024}
                               height={1024}
                               className="h-full w-full object-contain"

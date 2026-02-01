@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { withBasePath } from "@/lib/asset";
 import { AnimatePresence, motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 
@@ -56,10 +57,10 @@ export function ChibiCozy({
             exit={{ opacity: 0 }}
             transition={{ duration: 0.4 }}
           >
-            <Image
-              src={imageSrc}
-              alt=""
-              aria-hidden="true"
+        <Image
+          src={withBasePath(imageSrc)}
+          alt=""
+          aria-hidden="true"
               width={408}
               height={612}
               className="block h-auto w-full select-none"
