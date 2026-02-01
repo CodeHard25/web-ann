@@ -282,7 +282,7 @@ export default function ChapterFourPage() {
             </div>
             <div className="mx-auto mb-5 h-56 w-56 rounded-3xl bg-white/70 shadow-soft sm:h-72 sm:w-72">
               <Image
-                src={withBasePath("/S0.jpeg")}
+                src={withBasePath("/S1.jpeg")}
                 alt=""
                 aria-hidden="true"
                 width={512}
