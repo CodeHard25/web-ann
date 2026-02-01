@@ -1,0 +1,95 @@
+[
+  {
+    "id": "memory-1",
+    "title": "Mugs, Magic, and the First Spark",
+    "dateLabel": "Early January 2024",
+    "location": "Mugs and Magic Cafe \u2192 ISCKON Temple \u2192 Jyoti's Flat, Jaipur",
+    "caption": "A cafe glow, temple calm, and music at her flat made the first day feel like a gentle destiny.",
+    "longNote": "Mugs and Magic smelled like new beginnings and warm coffee.\nWe wandered into ISCKON where everything felt serene and full of positive energy.\nBack at her flat, the music softened the night and time slowed down.\nIt was the first day that felt truly special, like the story had already chosen us.",
+    "tags": [
+      "first-date",
+      "jaipur",
+      "temple",
+      "music",
+      "kawaii"
+    ],
+    "imageSrc": "/images/memory-1.jpg"
+  },
+  {
+    "id": "memory-2",
+    "title": "Scooty Rescue & Coffee You Loved",
+    "dateLabel": "The Next Day",
+    "location": "Jaipur Streets",
+    "caption": "In the middle of city chaos, her help and a simple coffee turned into quiet gratitude.",
+    "longNote": "The scooty was towed, and the day could have stayed heavy.\nShe showed up, steady and calm, helping me recover it.\nI made you coffee after, and you smiled in that soft, appreciative way.\nThat small moment tasted like trust.",
+    "tags": [
+      "scooty",
+      "help",
+      "coffee",
+      "gratitude"
+    ],
+    "imageSrc": "/images/memory-2.jpg"
+  },
+  {
+    "id": "memory-3",
+    "title": "2nd February Confession",
+    "dateLabel": "02 Feb",
+    "location": "Hardik's Place",
+    "caption": "A tipsy night turned honest, and our feelings finally spoke out loud.",
+    "longNote": "On the 2nd of February, you stayed over at my place.\nWe were both a little drunk, brave in the way only love can make you.\nSomewhere between laughter and silence, we confessed what we felt.\nThat night drew a new map for our hearts.",
+    "tags": [
+      "confession",
+      "stayover",
+      "february",
+      "love"
+    ],
+    "imageSrc": "/images/memory-3.jpg"
+  },
+  {
+    "id": "memory-4",
+    "title": "Valentine's at Your Place",
+    "dateLabel": "14 Feb",
+    "location": "Jyoti's Place",
+    "caption": "We cooked, sipped wine, decorated the room, and said love with every small detail.",
+    "longNote": "On Valentine's Day, I stayed at your place and we cooked together.\nThe room glowed with decorations, and we clicked pictures like keepsakes.\nWine made the night feel softer, our laughter warmer.\nWe expressed love in the simplest, most perfect ways.",
+    "tags": [
+      "valentine",
+      "cooking",
+      "wine",
+      "photos",
+      "love"
+    ],
+    "imageSrc": "/images/memory-4.jpg"
+  },
+  {
+    "id": "memory-5",
+    "title": "Pink City Loops",
+    "dateLabel": "Ongoing",
+    "location": "Jaipur",
+    "caption": "Scooty rides, cafes, temples, and riverside talks stitched our everyday into magic.",
+    "longNote": "We ride the scooty through Jaipur like it belongs to us.\nShopping trips, cafe corners, and temple visits keep our rhythm soft.\nWe dance, roam the Pink City streets, and laugh at everything.\nEven our drunk riverside talks feel like a movie we never want to end.\nStaying over and ordering food is its own kind of celebration.",
+    "tags": [
+      "jaipur",
+      "rides",
+      "cafes",
+      "temples",
+      "riverside"
+    ],
+    "imageSrc": "/images/memory-5.jpg"
+  },
+  {
+    "id": "memory-6",
+    "title": "A Quiet Promise",
+    "dateLabel": "Always",
+    "location": "Everywhere We Are",
+    "caption": "She brought stability and warmth, and I want to keep choosing her every day.",
+    "longNote": "You made my life feel steady, like the ground finally settled.\nYour warmth fills the spaces I didn't know were cold.\nWith you, even ordinary days feel safe and bright.\nI want to keep choosing you, in every season, in every way.",
+    "tags": [
+      "promise",
+      "stability",
+      "warmth",
+      "forever"
+    ],
+    "imageSrc": "/images/memory-6.jpg"
+  }
+]

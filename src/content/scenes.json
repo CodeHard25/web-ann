@@ -1,0 +1,38 @@
+[
+  {
+    "id": "scene-01",
+    "title": "Mugs & Magic",
+    "subtitle": "Cafe glow to temple calm",
+    "accent": "pink",
+    "interactionType": "tap-mug",
+    "unlockStampText": "Unlocked",
+    "narration": "Steam rises, the city quiets.\nA first day turns into a soft beginning."
+  },
+  {
+    "id": "scene-02",
+    "title": "Scooty Rescue",
+    "subtitle": "Kindness in the chaos",
+    "accent": "mint",
+    "interactionType": "drag-scooty",
+    "unlockStampText": "Recovered",
+    "narration": "Hands steady, heart grateful.\nEven trouble feels gentle beside you."
+  },
+  {
+    "id": "scene-03",
+    "title": "February Confession",
+    "subtitle": "Two hearts, one brave night",
+    "accent": "lilac",
+    "interactionType": "hold-heart",
+    "unlockStampText": "Felt",
+    "narration": "A tipsy hush, an honest truth.\nLove finally says its name."
+  },
+  {
+    "id": "scene-04",
+    "title": "Valentine's Glow",
+    "subtitle": "Cooking, wine, and pictures",
+    "accent": "sky",
+    "interactionType": "tap-bell",
+    "unlockStampText": "Forever",
+    "narration": "Decorations sparkle, laughter lingers.\nOur love tastes like home."
+  }
+]

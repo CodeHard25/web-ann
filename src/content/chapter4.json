@@ -1,0 +1,222 @@
+[
+  {
+    "id": "card-1",
+    "title": "You Made Me Feel Calm",
+    "lines": [
+      "Being around you slowed everything down.",
+      "My head stopped racing.",
+      "I felt safe sitting quietly with you.",
+      "Calm became normal."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.37.jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.38 (1).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.38 (2).jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.19.53 (1).mp4" }
+    ]
+  },
+  {
+    "id": "card-2",
+    "title": "You Showed Up",
+    "lines": [
+      "You didn’t leave when things were inconvenient.",
+      "You stayed.",
+      "You helped.",
+      "That mattered more than you know."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.38 (3).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.38.jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.39 (1).jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.19.53.mp4" }
+    ]
+  },
+  {
+    "id": "card-3",
+    "title": "I Started Smiling Without Thinking",
+    "lines": [
+      "I didn’t plan it.",
+      "It just happened.",
+      "I caught myself smiling because of you.",
+      "Again and again."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.39 (2).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.39.jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.53.jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.20.52 (1).mp4" }
+    ]
+  },
+  {
+    "id": "card-4",
+    "title": "You Felt Like Home",
+    "lines": [
+      "No pressure.",
+      "No pretending.",
+      "Just being myself around you.",
+      "That’s what home feels like."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.40 (2).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.40 (3).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.40.jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.20.52 (2).mp4" }
+    ]
+  },
+  {
+    "id": "card-5",
+    "title": "You Made Ordinary Days Exciting",
+    "lines": [
+      "Nothing special planned.",
+      "No big reason.",
+      "But days felt better with you in them.",
+      "Every time."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.41 (1).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.54 (1).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.42 (1).jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.20.52.mp4" }
+    ]
+  },
+  {
+    "id": "card-6",
+    "title": "I Trusted You",
+    "lines": [
+      "I let my guard down.",
+      "I spoke honestly.",
+      "I wasn’t afraid you’d walk away.",
+      "That trust changed me."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.42.jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.43 (1).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.43.jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.20.53 (1).mp4" }
+    ]
+  },
+  {
+    "id": "card-7",
+    "title": "You Chose Me Back",
+    "lines": [
+      "I didn’t feel alone in choosing you.",
+      "You chose me too.",
+      "In small ways.",
+      "Every day."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.44 (1).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.44.jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.45 (1).jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.20.53.mp4" }
+    ]
+  },
+  {
+    "id": "card-8",
+    "title": "You Made Love Feel Easy",
+    "lines": [
+      "No drama.",
+      "No confusion.",
+      "Just affection, care, and effort.",
+      "Love felt simple with you."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.45 (2).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.45.jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.46 (1).jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.20.54 (1).mp4" }
+    ]
+  },
+  {
+    "id": "card-9",
+    "title": "You Became Part of My Routine",
+    "lines": [
+      "Talking to you became a habit.",
+      "Seeing you felt normal.",
+      "Missing you felt real.",
+      "You fit into my life naturally."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.46.jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.47 (1).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.47.jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.20.54 (2).mp4" }
+    ]
+  },
+  {
+    "id": "card-10",
+    "title": "I Felt Wanted",
+    "lines": [
+      "You made me feel seen.",
+      "Heard.",
+      "Wanted.",
+      "That feeling stayed with me."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.48.jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.49 (1).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.49 (2).jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.20.54.mp4" }
+    ]
+  },
+  {
+    "id": "card-11",
+    "title": "We Had Fun Without Trying",
+    "lines": [
+      "No effort.",
+      "No planning.",
+      "Just laughing, roaming, talking, living.",
+      "Fun came easily with you."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.49.jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.50 (1).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.50.jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.20.55 (1).mp4" }
+    ]
+  },
+  {
+    "id": "card-12",
+    "title": "You Changed What I Expect From Love",
+    "lines": [
+      "I expect honesty now.",
+      "Effort.",
+      "Care.",
+      "Because you showed me that’s possible."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.51 (1).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.51.jpeg" },
+      { "type": "video", "src": "/WhatsApp Video 2026-02-01 at 03.20.55.mp4" }
+    ]
+  },
+  {
+    "id": "card-13",
+    "title": "You Stayed",
+    "lines": [
+      "Even when I was quiet.",
+      "Even when I was difficult.",
+      "You stayed.",
+      "That changed everything for me."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.40 (1).jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.41.jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.54.jpeg" }
+    ]
+  },
+  {
+    "id": "card-14",
+    "title": "I Want You in My Future",
+    "lines": [
+      "Not just in my good days.",
+      "In all of them.",
+      "I want us to keep building.",
+      "I want you there."
+    ],
+    "media": [
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.52.jpeg" },
+      { "type": "image", "src": "/WhatsApp Image 2026-02-01 at 03.19.55.jpeg" }
+    ]
+  }
+]
